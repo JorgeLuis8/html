@@ -1,0 +1,58 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: dimgray;
+    
+}
+
+header {
+    background-color: white;
+    padding: 3px;
+    margin: 0px;
+
+}
+
+nav{
+    background-color: rgb(82, 81, 81);
+    text-align: center;
+    margin: 0px;
+    box-shadow: 4px -6px 7px black;
+    border-radius: 20px;
+}
+nav >a{
+    color: white;
+    margin: 0px 30px 0px 0px;
+    
+}
+
+#noticias{
+    background-color: white;
+}
+
+article> aside {
+    background-color: rgb(59, 58, 58);
+    color: white;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: 300px 0px 0px 0px;
+    padding: 4px;
+    border-radius: 20px;
+}
+
+footer > p {
+    margin: 0px ;
+}
+
+header > h1{
+    text-shadow: 2px -5px 9px black;
+}
+
+main{
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px;
+}
